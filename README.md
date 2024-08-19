@@ -262,7 +262,7 @@ d.<br>
 ![exp8d output](https://github.com/tanishaamenon/CDS---Matrices/blob/main/exp8d.JPG)
 <br>
 e.<br>
-![exp8e output](https://github.com/tanishaamenon/CDS---Matrices/blob/main/exp8e.JPG)
+![exp8f output](https://github.com/tanishaamenon/CDS---Matrices/blob/main/exp8f.JPG)
 <br>
 
 **Conclusion:** <br>
