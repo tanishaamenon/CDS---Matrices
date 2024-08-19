@@ -1,6 +1,6 @@
-# Experiment 7
+# Experiment 8
 **Aim:** <br>
-Expt 8	To study and implement C++ 2D Array - Matrices<br>
+To study and implement C++ 2D Array - Matrices<br>
 <br>
 **Theory:** <br>
 A 2D array in C++ can be defined as a data structure that deals with two-dimensional grid formats such as matrices wherein every single element is well identified by two indices: one for rows and another one for columns. It is similar to an array composed of other arrays.<br>
